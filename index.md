@@ -79,3 +79,5 @@ you feel most comfortable receiving that recognition?
 - Food. Love to eat it, love to cook it, love to talk about it.
 
 - Anything outdoorsy! I love to hike, bike, surf, camp and would love to talk to about anything related.
+
+- All things cryptocurrency related.
