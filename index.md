@@ -1,36 +1,39 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: Mitchell Markoff
+full_name: Mitchell Markoff
 # Set this to the Github URL for links to work correctly
-# github_url: https://github.com/abloomston/workwithme.guide-myguide/
+github_url: https://github.com/mitchellmarkoff/workwithme.guide-myguide
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
-# picture: ./profile.jpg
+picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
-# categories: [profile]
+categories: [profile]
 ---
-
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
 
 ## Values
 
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+- **Learning** is probably my biggest value. I think that knowledge is power and a lot of the time knowledge can lead you to whatever it is you wish to accomplish in life. I actively try to seek out learning opportunities for myself in all sorts of things.
+
+- **Authenticity** is something I really value. I think everyone needs to be able to express themselves as they are to be happy. Authenticity over originality is a common saying I like.
+
+- **Friendship** I love being around good people.
 
 ## Personality
 
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
+- **Curious** is probably the biggest trait of my personality. I love to ask questions and learn what I can about all sorts of random things in the world.
+
+- **Fun** I love goofing off (on my own time of course). I don't think life should be taken to seriously and that your attitude can turn a bad situation into a good one if you're willing to laugh and make the most of something.
+
+- **Impatient** I like fast moving things and can easily lose focus if I find something slow or boring.
 
 ## Receiving Feedback & Recognition
 
-How do you best receive feedback, be it positive or negative?
+- I like my feedback to be straight up weather it be positive or negative. I dont love when people beat around the bush with feadback. The more direct and focused the better.
+
+- I dont mind if my feedback is given in public or private, this goes for positive or negative feedback. If there's a lot of something though a 1:1 or direct message is probably most appropriate as to not bog down any meeting or channel.
+
+- I like feedback to be dialogue rather than ending on a air-drop of a comment.
 
 What about when one of us wants to call you out in some way for something awesome you did, a
 great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
@@ -38,58 +41,41 @@ you feel most comfortable receiving that recognition?
 
 ## Work Patterns
 
-What hours do you usually work?
+- I like to work with other people but can struggle when/if I'm put on the spot for something so I ususally dont prefer pairing. An alternative that works well for me is to be given a task to complete on my own time and then come back to teach or explain whatever was assigned. I'd like to get better being in pairs while I'm here so this is something I'd like to work towards changing.
 
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
+- I do love pairing when I'm being taught something. Watching someone code while I try to learn whatever tech they are using works great for me.
 
 ## Communication Preferences
-
-What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
-
-
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
 
 ## How To Know I’ve Gone To The Dark Side
 
 ### Warning Signs
 
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
-What about when you're just not having an "on" or "good" day?
+- When I'm quiet. If I understand something I'm always repeating things back and staying vocal. I get quiet when I **fear I am unable to learn something, confused to an extreme level**. I usually speak up when I'm confused and ask questions but this is the dark side we're talking about so its bad when I'm quiet.
 
 ### How to help
 
-This might also be a good place
-to present recommendations for how we can be supportive towards you when you've gone to the
-Dark Side.
+- Some time alone helps me to clear my head and reset so I can look at something with a fresh prespective and an uncluttered brain.
+- Can never go wrong with some 1:1 time!
 
 ## Me Being Me
 
-Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
-
-## Pet Peeves
-
-_I don't expect this list to change your actions—but it might help you better understand and empathize with my
-reactions._
-
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
+- Eye contact on zoom specifically. I find it pretty draining to hold consistent eye contact on zoom so if my eyes drift away on a call, I'm still there and listening.
 
 ## Career Goals & Future Interests
 
-What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over.
+- I'm still very early in my career so short-medium term goals would be to graduate and become a fulltime software engineer.
+
+- Explore more areas of tech. I wanna try it all.
 
 ## Areas for Development
 
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
+- Every single thing imaginable. I'm young, I'm an intern, I'm here to try, fail, and learn. With my limited professional expierence I still have so much to develop. Because of this **feedback in any and all areas is strongly encouraged**.
 
 ## Ask Me About
 
-Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!
+- Santa Cruz, where I grew up! I know a lot of us Pantheors go there for long weekends or a beach day and I would love to be your travel agent and put you in the know of some great spots or resturants. I'm full of recommendations.
+
+- Food. Love to eat it, love to cook it, love to talk about it.
+
+- Anything outdoorsy! I love to hike, bike, surf, camp and would love to talk to about anything related.
